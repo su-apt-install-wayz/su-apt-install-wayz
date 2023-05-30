@@ -17,4 +17,4 @@ CoolShopping : CoolShopping est une application web e-commerce avec toutes ses f
 
 
 Portfolio en ligne
-J'ai également un portfolio en ligne où vous pouvez trouver plus d'informations sur mes compétences, mon expérience et mes réalisations. N'hésitez pas à y jeter un coup d'œil juste [[ici]](https://wustenberghs-theo.fr)
+J'ai également un portfolio en ligne où vous pouvez trouver plus d'informations sur mes compétences, mon expérience et mes réalisations. N'hésitez pas à y jeter un coup d'œil juste [ici](https://wustenberghs-theo.fr)
