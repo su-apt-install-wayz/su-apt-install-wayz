@@ -18,9 +18,4 @@ Voici quelques-uns des projets sur lesquels j'ai récemment travaillé :
 
 3. **CoolShopping** : CoolShopping est une application web e-commerce complète offrant toutes les fonctionnalités nécessaires pour créer et gérer votre boutique en ligne. Vous pouvez vendre vos produits, gérer les stocks, suivre les commandes et bien plus encore.
 
-## Portfolio en ligne
-
-J'ai également créé un [portfolio en ligne](https://wustenberghs-theo.fr) où vous pouvez en apprendre davantage sur mes compétences, mon expérience et mes réalisations. N'hésitez pas à y jeter un coup d'œil pour voir mes projets précédents.
-
-
 Merci d'avoir visité mon profil GitHub !
